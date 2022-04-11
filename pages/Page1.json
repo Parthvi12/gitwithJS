@@ -39,7 +39,7 @@
               "parentColumnSpace": 12.5625,
               "dynamicTriggerPathList": [],
               "resetOnSubmit": true,
-              "leftColumn": 25,
+              "leftColumn": 13,
               "dynamicBindingPathList": [
                 {
                   "key": "defaultText"
@@ -48,10 +48,10 @@
               "labelStyle": "",
               "inputType": "TEXT",
               "isDisabled": false,
-              "key": "09tmmio9me",
+              "key": "z83dm9t1qz",
               "isRequired": false,
-              "rightColumn": 45,
-              "widgetId": "48xos4u5ky",
+              "rightColumn": 33,
+              "widgetId": "y2n6rdn2nr",
               "isVisible": true,
               "label": "",
               "version": 2,

@@ -5,11 +5,11 @@
   "publishedDefaultPageName": "Page1",
   "unpublishedDefaultPageName": "Page1",
   "invisibleActionFields": {
-    "Page1 Copy_JSObject1.myFun1": {
+    "Page1_JSObject1.myFun1": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
-    "Page1 Copy_JSObject1.myFun2": {
+    "Page1_JSObject1.myFun2": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     }
